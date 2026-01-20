@@ -1,1 +1,1 @@
-# developfast-mcp
+# developfast-mcp MAQ
